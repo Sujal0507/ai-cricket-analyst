@@ -11,25 +11,25 @@ I am deeply passionate about cricket and analytics. This project reflects my int
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-👉 **Hugging Face Space:**  
+ **Hugging Face Space:**  
 https://huggingface.co/spaces/sujal05/ai-cricket-analyst
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🤖 AI-generated IPL-only cricket insights  
-- 📊 Top run scorers & wicket takers analysis  
-- 📈 Season-wise player performance trends  
-- ⚔️ Player vs Player comparison  
-- 🎨 Modern interactive dashboard UI  
-- 🔐 Secure API handling using environment variables  
+-  AI-generated IPL-only cricket insights  
+-  Top run scorers & wicket takers analysis  
+-  Season-wise player performance trends  
+-  Player vs Player comparison  
+-  Modern interactive dashboard UI  
+-  Secure API handling using environment variables  
 
 ---
 
-## 🧠 How the System Works (Step-by-Step)
+##  How the System Works (Step-by-Step)
 
 1. IPL match and ball-by-ball data is loaded using **Pandas**
 2. Statistical insights are computed (runs, wickets, strike rate, trends)
